@@ -1,10 +1,8 @@
-### 👋 Hello World
-
 [ITU](https://www.itu.edu.tr/)'19 B.Sc. Industrial Engineering & Economics
 
 [BOUN](https://www.boun.edu.tr/)'21 M.Sc. Operations Research
 
-more info will follow
+more info about me --> [canaytore.github.io/about/](https://canaytore.github.io/about/)
 
 <!--
 - 🔭 I’m currently working on ...
