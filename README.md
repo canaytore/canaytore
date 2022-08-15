@@ -2,7 +2,7 @@
 
 [BOUN](https://www.boun.edu.tr/)'21 M.Sc. Operations Research
 
-more info about me --> [canaytore.github.io/about/](https://canaytore.github.io/about/)
+more info about me --> [canaytore.github.io/](https://canaytore.github.io/)
 
 <!--
 - 🔭 I’m currently working on ...
