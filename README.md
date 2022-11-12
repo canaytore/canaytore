@@ -1,7 +1,7 @@
 <div align="center">
     <a href="https://github.com/canaytore"><img src="https://readme-typing-svg.demolab.com?lines=Can+Ayt%C3%B6re&font=Ubuntu+Mono&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=28&duration=2500&pause=27500" alt="Can Aytöre" /></a>
     <br>
-    <a href="https://github.com/canaytore"><img src="https://readme-typing-svg.demolab.com/?lines=Big%20Data%20Engineer%20;Industrial%20Engineer%2C%20M%2ESc%2E;7%2B%20years%20of%20coding%20experience;Always%20kept%20learning%20new%20things;Swimmer%20Sailor%20Traveler%20Photographer&font=Ubuntu+Mono&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000" alt="About Me" /></a>
+    <a href="https://github.com/canaytore"><img src="https://readme-typing-svg.demolab.com/?lines=big%20data%20engineer%20;industrial%20engineer%2C%20m%2Esc%2E;7%2B%20years%20of%20coding%20experience;always%20kept%20learning%20new%20things;swimmer%20sailor%20traveler%20photographer&font=Ubuntu+Mono&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000" alt="About Me" /></a>
     <br>
 	<a href="https://canaytore.github.io"><img src="https://img.icons8.com/doodle/40/000000/domain.png" alt="Website" title="My Website"/></a>
 	<a href="https://www.linkedin.com/in/canaytore"><img src="https://img.icons8.com/doodle/40/000000/linkedin.png" alt="LinkedIn" title="Connect me via LinkedIn"/></a>
@@ -102,7 +102,7 @@
             <summary>&nbsp;Environment, IDEs and Tools</summary>
             <blockquote>
                 <div align="left">
-                    <a href="https://github.com/canaytore"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-000?logo=intellij-idea&logoColor=white"></a>
+                    <a href="https://github.com/canaytore"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-000?logo=intellij-idea&logoColor=F90"></a>
 		    <a href="https://github.com/canaytore"><img alt="Google Colab" src="https://img.shields.io/badge/-Google%20Colab-000?logo=googlecolab&logoColor=F9AB00"></a>
 		    <a href="https://github.com/canaytore"><img alt="Anaconda" src="https://img.shields.io/badge/-Anaconda-000?logo=anaconda&logoColor=44A833"></a>
 		    <a href="https://github.com/canaytore"><img alt="Git" src="https://img.shields.io/badge/-Git-000?logo=git"></a>
