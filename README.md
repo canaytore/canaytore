@@ -13,14 +13,16 @@
 <br>
 <details open>
     <summary>&nbsp;My GitHub Stats 🔥</summary>
+    <blockquote>
     <br>
     <div align="center">
-        <a href="https://github.com/canaytore"><img src="https://github-readme-stats.vercel.app/api?username=canaytore&count_private=true&show_icons=true&theme=radical&title_color=ff3068" height="165"></a>
+        <a href="https://github.com/canaytore"><img src="https://github-readme-stats.vercel.app/api?username=canaytore&count_private=true&show_icons=true&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="165"></a>
         &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/canaytore"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=canaytore&theme=radical&layout=compact&langs_count=6&title_color=ff3068" height="165"></a>
+        <a href="https://github.com/canaytore"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=canaytore&theme=react&layout=compact&langs_count=6&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="165"></a>
         <br><br>
-        <a href="https://github.com/canaytore"><img src="http://github-readme-streak-stats.herokuapp.com/?user=canaytore&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068" height="165"></a>
+        <a href="https://github.com/canaytore"><img src="http://github-readme-streak-stats.herokuapp.com/?user=canaytore&theme=react&date_format=M%20j%5B%2C%20Y%5D&ring=F85D7F&fire=FF3068&sideNums=F85D7F" height="165"></a>
     </div>
+    </blockquote>
 </details>
 <br>
 <details open>
@@ -31,14 +33,14 @@
             <summary>&nbsp;Languages</summary>
             <blockquote>
                 <div align="left">
-                    <a href="https://github.com/canaytore"><img alt="Python" src="https://img.shields.io/badge/-Python-000?logo=python"></a>
-                    <a href="https://github.com/canaytore"><img alt="R" src="https://img.shields.io/badge/-R-000?logo=r&logoColor=276DC3"></a>
-                    <a href="https://github.com/canaytore"><img alt="SQL" src="https://img.shields.io/badge/-SQL-000?logo=MySQL"></a>    
-                    <a href="https://github.com/canaytore"><img alt="C++" src="https://img.shields.io/badge/-C++-000?logo=c%2B%2B&logoColor=00599C"></a>
-                    <a href="https://github.com/canaytore"><img alt="HTML" src="https://img.shields.io/badge/-HTML-000?logo=html5"></a>
-                    <a href="https://github.com/canaytore"><img alt="CSS" src="https://img.shields.io/badge/-CSS-000?logo=css3&logoColor=1572B6"></a>
-                    <a href="https://github.com/canaytore"><img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-000?logo=bootstrap"></a>
-                    <a href="https://github.com/canaytore"><img alt="Java" src="https://img.shields.io/badge/-Java-000?logo=java&logoColor=FFA518"></a>
+		    <a href="https://github.com/canaytore"><img alt="Python" src="https://img.shields.io/badge/-Python-000?logo=python"></a>
+		    <a href="https://github.com/canaytore"><img alt="R" src="https://img.shields.io/badge/-R-000?logo=r&logoColor=276DC3"></a>
+		    <a href="https://github.com/canaytore"><img alt="SQL" src="https://img.shields.io/badge/-SQL-000?logo=MySQL"></a>    
+		    <a href="https://github.com/canaytore"><img alt="C++" src="https://img.shields.io/badge/-C++-000?logo=c%2B%2B&logoColor=00599C"></a>
+		    <a href="https://github.com/canaytore"><img alt="HTML" src="https://img.shields.io/badge/-HTML-000?logo=html5"></a>
+		    <a href="https://github.com/canaytore"><img alt="CSS" src="https://img.shields.io/badge/-CSS-000?logo=css3&logoColor=1572B6"></a>
+		    <a href="https://github.com/canaytore"><img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-000?logo=bootstrap"></a>
+		    <a href="https://github.com/canaytore"><img alt="Java" src="https://img.shields.io/badge/-Java-000?logo=java&logoColor=FFA518"></a>
 		    <a href="https://github.com/canaytore"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-000?logo=latex&logoColor=008080"></a>
                 </div>
             </blockquote>
@@ -115,10 +117,20 @@
         </details>
     </blockquote>
 </details>
+<br>
+<details open>
+    <summary>&nbsp;My Top GitHub Repositories 💾</summary>
+    <blockquote>
+    <br>
+    <div align="left">
+	<a href="https://github.com/canaytore/XX"><img height="120" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=canaytore&repo=git-learnings&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&show_icons=true&show_description=true"></a>
+    </div>
+    </blockquote>
 </details>
 <br>
 <details open>
     <summary>&nbsp;Pokemon Playground 🎮</summary>
+    <blockquote>
     <br>
     <div style="background:white;" align="left">
         <img src="https://toy.aoaoao.me/image" width="320"/>
@@ -159,6 +171,7 @@
             <img src="https://raw.githubusercontent.com/canaytore/canaytore/main/img/start.png" height="35" />
         </a>
     </div>
+    </blockquote>
 </details>
 
 <div align="right">
