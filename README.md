@@ -142,45 +142,26 @@
     <div style="background:white;" align="left">
         <img src="https://toy.aoaoao.me/image" width="320"/>
         <br>
-        <a href="https://toy.aoaoao.me/control?button=2&callback=https://github.com/canaytore">
-            <img src="https://raw.githubusercontent.com/canaytore/canaytore/main/img/blank.png" width="35"/>
-            <img src="https://raw.githubusercontent.com/canaytore/canaytore/main/img/up.png" width="35"/>
-        </a>
+        <a href="https://toy.aoaoao.me/control?button=2&callback=https://github.com/canaytore"><img src="https://raw.githubusercontent.com/canaytore/canaytore/main/img/blank.png" width="35"/><img src="https://raw.githubusercontent.com/canaytore/canaytore/main/img/up.png" title="Up" width="35"/></a>
         <br>
-        <a href="https://toy.aoaoao.me/control?button=1&callback=https://github.com/canaytore">
-            <img src="https://raw.githubusercontent.com/canaytore/canaytore/main/img/left.png" width="35"/>
-        </a>
+        <a href="https://toy.aoaoao.me/control?button=1&callback=https://github.com/canaytore"><img src="https://raw.githubusercontent.com/canaytore/canaytore/main/img/left.png" title="Left" width="35"/></a>
         <img src="https://raw.githubusercontent.com/canaytore/canaytore/main/img/blank.png" width="35"/>
-        <a href="https://toy.aoaoao.me/control?button=0&callback=https://github.com/canaytore">
-            <img src="https://raw.githubusercontent.com/canaytore/canaytore/main/img/right.png" width="35"/>
-        </a>
+        <a href="https://toy.aoaoao.me/control?button=0&callback=https://github.com/canaytore"><img src="https://raw.githubusercontent.com/canaytore/canaytore/main/img/right.png" title="Right" width="35"/></a>
         <img src="https://raw.githubusercontent.com/canaytore/canaytore/main/img/blank.png" width="35"/>
         <img src="https://raw.githubusercontent.com/canaytore/canaytore/main/img/blank.png" width="35"/>
         <img src="https://raw.githubusercontent.com/canaytore/canaytore/main/img/blank.png" width="35"/>
-        <a href="https://toy.aoaoao.me/control?button=5&callback=https://github.com/canaytore">
-            <img src="https://raw.githubusercontent.com/canaytore/canaytore/main/img/B.png" width="35"/>
-        </a>
-        <a href="https://toy.aoaoao.me/control?button=4&callback=https://github.com/canaytore">
-            <img src="https://raw.githubusercontent.com/canaytore/canaytore/main/img/A.png" width="35"/>
-        </a>
+        <a href="https://toy.aoaoao.me/control?button=5&callback=https://github.com/canaytore"><img src="https://raw.githubusercontent.com/canaytore/canaytore/main/img/B.png" title="B" width="35"/></a>
+        <a href="https://toy.aoaoao.me/control?button=4&callback=https://github.com/canaytore"><img src="https://raw.githubusercontent.com/canaytore/canaytore/main/img/A.png" title="A" width="35"/></a>
         <br>
-        <a href="https://toy.aoaoao.me/control?button=3&callback=https://github.com/canaytore">
-            <img src="https://raw.githubusercontent.com/canaytore/canaytore/main/img/blank.png" width="35"/>
-            <img src="https://raw.githubusercontent.com/canaytore/canaytore/main/img/down.png" width="35"/>
-        </a>
+        <a href="https://toy.aoaoao.me/control?button=3&callback=https://github.com/canaytore"><img src="https://raw.githubusercontent.com/canaytore/canaytore/main/img/blank.png" width="35"/><img src="https://raw.githubusercontent.com/canaytore/canaytore/main/img/down.png" title="Down" width="35"/></a>
         <br>
         <img src="https://raw.githubusercontent.com/canaytore/canaytore/main/img/blank.png" width="35"/>
         <img src="https://raw.githubusercontent.com/canaytore/canaytore/main/img/blank.png" width="35"/>
-        <a href="https://toy.aoaoao.me/control?button=6&callback=https://github.com/canaytore">
-            <img src="https://raw.githubusercontent.com/canaytore/canaytore/main/img/select.png" height="35"/>
-        </a>
-        <a href="https://toy.aoaoao.me/control?button=7&callback=https://github.com/canaytore">
-            <img src="https://raw.githubusercontent.com/canaytore/canaytore/main/img/start.png" height="35" />
-        </a>
+        <a href="https://toy.aoaoao.me/control?button=6&callback=https://github.com/canaytore"><img src="https://raw.githubusercontent.com/canaytore/canaytore/main/img/select.png" title="Select" height="35"/></a>
+        <a href="https://toy.aoaoao.me/control?button=7&callback=https://github.com/canaytore"><img src="https://raw.githubusercontent.com/canaytore/canaytore/main/img/start.png" title="Start" height="35" /></a>
     </div>
     </blockquote>
 </details>
-
 <div align="right">
     <img src="https://komarev.com/ghpvc/?username=canaytore&label=Can's%20Profile%20Views&style=flat" alt="canaytore github profile views">
 </div>
