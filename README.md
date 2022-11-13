@@ -123,7 +123,7 @@
     <blockquote>
     <br>
     <div align="left">
-	<a href="https://github.com/canaytore/XX"><img height="120" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=canaytore&repo=git-learnings&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&show_icons=true&show_description=true"></a>
+	<a href="https://github.com/canaytore/XX"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=canaytore&repo=git-learnings&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&show_icons=true&show_description=true"></a>
     </div>
     </blockquote>
 </details>
