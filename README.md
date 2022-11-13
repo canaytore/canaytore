@@ -104,6 +104,7 @@
             <summary>&nbsp;Environment, IDEs and Tools</summary>
             <blockquote>
                 <div align="left">
+		    <a href="https://github.com/canaytore"><img alt="Automation Anywhere" src="https://custom-icon-badges.demolab.com/badge/-Automation%20Anywhere-000?logo=automation-anywhere"/></a> <!-- https://custom-icon-badges.demolab.com/ -->
                     <a href="https://github.com/canaytore"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-000?logo=intellij-idea&logoColor=F90"></a>
 		    <a href="https://github.com/canaytore"><img alt="Google Colab" src="https://img.shields.io/badge/-Google%20Colab-000?logo=googlecolab&logoColor=F9AB00"></a>
 		    <a href="https://github.com/canaytore"><img alt="Anaconda" src="https://img.shields.io/badge/-Anaconda-000?logo=anaconda&logoColor=44A833"></a>
