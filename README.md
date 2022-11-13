@@ -26,7 +26,7 @@
 </details>
 <br>
 <details open>
-    <summary>&nbsp;My Tech Stack 🛠 (to be updated - list are mixed)</summary>
+    <summary>&nbsp;My Tech Stack 🛠</summary>
     <blockquote>
         <br>
         <details open>
@@ -163,5 +163,5 @@
     </blockquote>
 </details>
 <div align="right">
-    <img src="https://komarev.com/ghpvc/?username=canaytore&label=Can's%20Profile%20Views&style=flat" alt="canaytore github profile views">
+    <a href="https://github.com/canaytore"><img src="https://komarev.com/ghpvc/?username=canaytore&label=Can's%20Profile%20Views&style=flat" alt="canaytore github profile views"></a>
 </div>
