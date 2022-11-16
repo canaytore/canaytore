@@ -189,7 +189,6 @@
     </div>
     <div align="center">
 	<!--START_SECTION:activity-->
-	<!--END_SECTION:activity-->
     </div>
     </blockquote>
 </details>
