@@ -179,6 +179,20 @@
     </div>
     </blockquote>
 </details>
+<br>
+<details>
+    <summary>&nbsp;My Recent GitHub Activity</summary>
+    <blockquote>
+    <br>
+    <div align="center">
+	<a href="https://github.com/canaytore"><img alt="canaytore's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=canaytore&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+    </div>
+    <div align="center">
+	<!--START_SECTION:activity-->
+	<!--END_SECTION:activity-->
+    </div>
+    </blockquote>
+</details>
 <div align="right">
     <a href="https://github.com/canaytore"><img src="https://komarev.com/ghpvc/?username=canaytore&label=Can's%20Profile%20Views&style=flat" alt="canaytore github profile views"></a>
 </div>
