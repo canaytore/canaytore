@@ -39,6 +39,7 @@
 		    <a href="https://github.com/canaytore"><img alt="HTML" src="https://img.shields.io/badge/-HTML-000?logo=html5"></a>
 		    <a href="https://github.com/canaytore"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/-Java-000?logo=java&logoColor=1FBED6"></a>
 		    <a href="https://github.com/canaytore"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-000?logo=latex&logoColor=008080"></a>
+		    <a href="https://github.com/canaytore"><img alt="Matlab" src="https://custom-icon-badges.demolab.com/badge/-Matlab-000?logo=matlab2"></a>
 		    <a href="https://github.com/canaytore"><img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000?logo=markdown"></a>
 		    <a href="https://github.com/canaytore"><img alt="Python" src="https://img.shields.io/badge/-Python-000?logo=python"></a>
 		    <a href="https://github.com/canaytore"><img alt="R" src="https://img.shields.io/badge/-R-000?logo=r&logoColor=276DC3"></a>
@@ -62,11 +63,13 @@
 		    <a href="https://github.com/canaytore"><img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-000?logo=fastapi"></a>
 		    <a href="https://github.com/canaytore"><img alt="Flask" src="https://img.shields.io/badge/-Django-000?logo=django&logoColor=092E20"></a>
 		    <a href="https://github.com/canaytore"><img alt="Keras" src="https://img.shields.io/badge/-Keras-000?logo=Keras&logoColor=f73636"></a>
+		    <a href="https://github.com/canaytore"><img alt="Kibana" src ="https://img.shields.io/badge/-Kibana-000?logo=kibana&logoColor=005571"></a>
 		    <a href="https://github.com/canaytore"><img alt="mlflow" src="https://img.shields.io/badge/-mlflow-000?logo=mlflow"></a>
 		    <a href="https://github.com/canaytore"><img alt="Neo4j" src="https://img.shields.io/badge/-Neo4j-000?logo=neo4j&logoColor=4581C3"></a>
 		    <a href="https://github.com/canaytore"><img alt="NumPy" src="https://img.shields.io/badge/-Numpy-000?logo=numpy&logoColor=013243"></a>
 		    <a href="https://github.com/canaytore"><img alt="Pandas" src="https://img.shields.io/badge/-Pandas-000?logo=pandas"></a>
 		    <a href="https://github.com/canaytore"><img alt="Plotly" src="https://img.shields.io/badge/-Plotly-000?logo=plotly&logoColor=3F4F75"></a>
+		    <a href="https://github.com/canaytore"><img alt="Presto" src ="https://img.shields.io/badge/-Presto-000?logo=presto&logoColor=5890FF"></a>
 		    <a href="https://github.com/canaytore"><img alt="PyTorch" src ="https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch"></a>
 		    <a href="https://github.com/canaytore"><img alt="Scikit-learn" src="https://img.shields.io/badge/-sklearn-000?logo=scikitlearn"></a>
 		    <a href="https://github.com/canaytore"><img alt="SciPy" src="https://img.shields.io/badge/-Scipy-000?logo=scipy&logoColor=8CAAE6"></a>
@@ -87,10 +90,12 @@
 		    <a href="https://github.com/canaytore"><img alt="Git" src="https://img.shields.io/badge/-Git-000?logo=git"></a>
 		    <a href="https://github.com/canaytore"><img alt="GitHub Actions" src ="https://img.shields.io/badge/-GitHub%20Actions-000?logo=githubactions&logoColor=2088FF"></a>
 		    <a href="https://github.com/canaytore"><img alt="GitLab CI/CD" src ="https://img.shields.io/badge/-GitLab%20CI/CD-000?logo=gitlab&logoColor=FC6D26"></a>
+		    <a href="https://github.com/canaytore"><img alt="JFrog" src ="https://img.shields.io/badge/-JFrog%20Artifactory-000?logo=jfrog&logoColor=41BF47"></a>
 		    <a href="https://github.com/canaytore"><img alt="Jira" src ="https://img.shields.io/badge/-Jira-000?logo=jira&logoColor=0052CC"></a>
 		    <a href="https://github.com/canaytore"><img alt="Kubernetes" src ="https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes"></a>
 		    <a href="https://github.com/canaytore"><img alt="Okteto" src ="https://custom-icon-badges.demolab.com/badge/-Okteto-000?logo=okteto-kubernetes&logoColor=009688"></a>
 		    <a href="https://github.com/canaytore"><img alt="Red Hat Openshift" src ="https://img.shields.io/badge/-Red%20Hat%20Openshift-000?logo=redhatopenshift&logoColor=EE0000"></a>
+		    <a href="https://github.com/canaytore"><img alt="SonarQube" src ="https://img.shields.io/badge/-SonarQube-000?&logo=sonarqube&logoColor=4E9BCD"></a>
                 </div>
             </blockquote>
         </details>
@@ -99,7 +104,12 @@
             <blockquote>
                 <div align="left">
 		    <a href="https://github.com/canaytore"><img alt="Amazon DynamoDB" src ="https://img.shields.io/badge/-Amazon%20DynamoDB-000?logo=Amazon%20DynamoDB&logoColor=4053D6"></a>
+		    <a href="https://github.com/canaytore"><img alt="Amazon EC2" src ="https://img.shields.io/badge/-Amazon%20EC2-000?logo=Amazon%20EC2&logoColor=FF9900"></a>
+		    <a href="https://github.com/canaytore"><img alt="Amazon RDS" src ="https://img.shields.io/badge/-Amazon%20RDS-000?logo=Amazon%20RDS&logoColor=527FFF"></a>
+		    <a href="https://github.com/canaytore"><img alt="Amazon S3" src ="https://img.shields.io/badge/-Amazon%20S3-000?logo=Amazon%20S3&logoColor=569A31"></a>
 		    <a href="https://github.com/canaytore"><img alt="AWS" src ="https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90"></a>
+		    <a href="https://github.com/canaytore"><img alt="Azure" src ="https://img.shields.io/badge/-Microsoft%20Azure-000?&logo=microsoft%20azure&logoColor=0078D4"></a>
+		    <a href="https://github.com/canaytore"><img alt="Elasticsearch" src ="https://img.shields.io/badge/-Elasticsearch-000?&logo=elasticsearch&logoColor=005571"></a>
 		    <a href="https://github.com/canaytore"><img alt="MongoDB" src ="https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=47A248"></a>
 		    <a href="https://github.com/canaytore"><img alt="Redis" src ="https://img.shields.io/badge/-Redis-000?&logo=Redis"></a>
 		    <a href="https://github.com/canaytore"><img alt="VMware" src ="https://img.shields.io/badge/-VMware-000?logo=VMware&logoColor=white"></a>
@@ -107,17 +117,24 @@
             </blockquote>
         </details>
         <details open>
-            <summary>&nbsp;Software, Tools and IDEs</summary>
+            <summary>&nbsp;Software, Tools and favorable IDEs</summary>
             <blockquote>
                 <div align="left">
-		    <a href="https://github.com/canaytore"><img alt="Automation Anywhere" src="https://custom-icon-badges.demolab.com/badge/-Automation%20Anywhere-000?logo=automation-anywhere"></a>
 		    <a href="https://github.com/canaytore"><img alt="Anaconda" src="https://img.shields.io/badge/-Anaconda-000?logo=anaconda&logoColor=44A833"></a>
+		    <a href="https://github.com/canaytore"><img alt="Automation Anywhere" src="https://custom-icon-badges.demolab.com/badge/-Automation%20Anywhere-000?logo=automation-anywhere"></a>
+		    <a href="https://github.com/canaytore"><img alt="GAMS" src="https://custom-icon-badges.demolab.com/badge/-GAMS-000?logo=gams-modeling"></a>
 		    <a href="https://github.com/canaytore"><img alt="Google Colab" src="https://img.shields.io/badge/-Google%20Colab-000?logo=googlecolab&logoColor=F9AB00"></a>
 		    <a href="https://github.com/canaytore"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-000?logo=intellij-idea&logoColor=F90"></a>
+		    <a href="https://github.com/canaytore"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/-Jupyter%20Notebook-000?logo=jupyter&logoColor=F37626"></a>
+		    <a href="https://github.com/canaytore"><img alt="Netlogo" src="https://custom-icon-badges.demolab.com/badge/-Netlogo-000?logo=netlogo"></a>
 		    <a href="https://github.com/canaytore"><img alt="Postman" src="https://img.shields.io/badge/-Postman-000?logo=postman"></a>
 		    <a href="https://github.com/canaytore"><img alt="PowerBI" src ="https://img.shields.io/badge/-PowerBI-000?logo=powerbi&logoColor=F2C811"></a>
+		    <a href="https://github.com/canaytore"><img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-000?logo=pycharm&logoColor=F90"></a>
 		    <a href="https://github.com/canaytore"><img alt="RStudio" src="https://img.shields.io/badge/-RStudio-000?logo=rstudio"></a>
+		    <a href="https://github.com/canaytore"><img alt="Simulink" src="https://custom-icon-badges.demolab.com/badge/-Simulink-000?logo=matlab2"></a>
 		    <a href="https://github.com/canaytore"><img alt="SPSS Statistics" src="https://custom-icon-badges.demolab.com/badge/-SPSS%20Statistics-000?logo=SPSS"/></a>
+		    <a href="https://github.com/canaytore"><img alt="Spyder IDE" src="https://img.shields.io/badge/-Spyder%20IDE-000?logo=spyder%20ide&logoColor=FF0000"></a>
+		    <a href="https://github.com/canaytore"><img alt="UiPath" src="https://custom-icon-badges.demolab.com/badge/-UiPath-000?logo=uipath&logoColor=FA4616"></a>
                     <a href="https://github.com/canaytore"><img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-000?logo=visual-studio-code&logoColor=007ACC"></a>
                 </div>
             </blockquote>
@@ -126,7 +143,7 @@
 </details>
 <br>
 <details open>
-    <summary>&nbsp;My Top GitHub <a href="https://github.com/canaytore?tab=repositories"><img alt="repo" src="https://custom-icon-badges.demolab.com/badge/-Repositories-276DC3?logo=repo&style=plastic"></a></summary>
+    <summary>&nbsp;My Top GitHub <a href="https://github.com/canaytore?tab=repositories"><img alt="repo" src="https://custom-icon-badges.demolab.com/badge/-Repositories-276DC3?logo=repo&style=plastic"></a> <i>(to be updated)</i></summary>
     <blockquote>
     <br>
     <div align="left">
@@ -159,6 +176,19 @@
         <img src="https://raw.githubusercontent.com/canaytore/canaytore/main/img/blank.png" width="35"/>
         <a href="https://toy.aoaoao.me/control?button=6&callback=https://github.com/canaytore"><img src="https://raw.githubusercontent.com/canaytore/canaytore/main/img/select.png" title="Select" height="35"/></a>
         <a href="https://toy.aoaoao.me/control?button=7&callback=https://github.com/canaytore"><img src="https://raw.githubusercontent.com/canaytore/canaytore/main/img/start.png" title="Start" height="35" /></a>
+    </div>
+    </blockquote>
+</details>
+<br>
+<details>
+    <summary>&nbsp;My Recent GitHub Activity</summary>
+    <blockquote>
+    <br>
+    <div align="center">
+	<a href="https://github.com/canaytore"><img alt="canaytore's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=canaytore&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+    </div>
+    <div align="center">
+	<!--START_SECTION:activity-->
     </div>
     </blockquote>
 </details>
