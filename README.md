@@ -189,6 +189,12 @@
     </div>
     <div align="center">
 	<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2](https://github.com/canaytore/canaytore/pull/2) in [canaytore/canaytore](https://github.com/canaytore/canaytore)
+2. 💪 Opened PR [#2](https://github.com/canaytore/canaytore/pull/2) in [canaytore/canaytore](https://github.com/canaytore/canaytore)
+3. 🎉 Merged PR [#1](https://github.com/canaytore/canaytore/pull/1) in [canaytore/canaytore](https://github.com/canaytore/canaytore)
+4. 💪 Opened PR [#1](https://github.com/canaytore/canaytore/pull/1) in [canaytore/canaytore](https://github.com/canaytore/canaytore)
+5. 🎉 Merged PR [#5](https://github.com/canaytore/git-learnings/pull/5) in [canaytore/git-learnings](https://github.com/canaytore/git-learnings)
+<!--END_SECTION:activity-->
     </div>
     </blockquote>
 </details>
