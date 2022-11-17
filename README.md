@@ -181,7 +181,7 @@
 </details>
 <br>
 <details>
-<summary>&nbsp;My Recent GitHub Activity</summary>
+<summary>&nbsp;My Recent GitHub Activity 💬</summary>
 <blockquote>
 <br>
 		
