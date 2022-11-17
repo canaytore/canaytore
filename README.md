@@ -181,22 +181,16 @@
 </details>
 <br>
 <details>
-    <summary>&nbsp;My Recent GitHub Activity</summary>
-    <blockquote>
-    <br>
-    <div align="center">
+<summary>&nbsp;My Recent GitHub Activity</summary>
+<blockquote>
+<br>
+		
+<!--START_SECTION:activity--> 
+<br>
+<div align="center">
 	<a href="https://github.com/canaytore"><img alt="canaytore's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=canaytore&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-    </div>
-    <div align="center">
-	<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/canaytore/canaytore/pull/2) in [canaytore/canaytore](https://github.com/canaytore/canaytore)
-2. 💪 Opened PR [#2](https://github.com/canaytore/canaytore/pull/2) in [canaytore/canaytore](https://github.com/canaytore/canaytore)
-3. 🎉 Merged PR [#1](https://github.com/canaytore/canaytore/pull/1) in [canaytore/canaytore](https://github.com/canaytore/canaytore)
-4. 💪 Opened PR [#1](https://github.com/canaytore/canaytore/pull/1) in [canaytore/canaytore](https://github.com/canaytore/canaytore)
-5. 🎉 Merged PR [#5](https://github.com/canaytore/git-learnings/pull/5) in [canaytore/git-learnings](https://github.com/canaytore/git-learnings)
-<!--END_SECTION:activity-->
-    </div>
-    </blockquote>
+</div>
+</blockquote>
 </details>
 <div align="right">
     <a href="https://github.com/canaytore"><img src="https://komarev.com/ghpvc/?username=canaytore&label=Can's%20Profile%20Views&style=flat" alt="canaytore github profile views"></a>
