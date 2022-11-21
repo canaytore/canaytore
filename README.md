@@ -16,11 +16,11 @@
     <blockquote>
     <br>
     <div align="center">
-        <a href="https://github.com/canaytore"><img src="https://github-readme-stats.vercel.app/api?username=canaytore&count_private=true&show_icons=true&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="165"></a>
+        <a href="https://github.com/canaytore"><img src="https://canaytore-github-readme-stats.vercel.app/api?username=canaytore&count_private=true&show_icons=true&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="165"></a>
         &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/canaytore"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=canaytore&theme=react&layout=compact&langs_count=6&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="165"></a>
+        <a href="https://github.com/canaytore"><img src="https://canaytore-github-readme-stats.vercel.app/api/top-langs/?username=canaytore&theme=react&layout=compact&langs_count=6&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="165"></a>
         <br><br>
-        <a href="https://github.com/canaytore"><img src="http://github-readme-streak-stats.herokuapp.com/?user=canaytore&theme=react&date_format=M%20j%5B%2C%20Y%5D&ring=F85D7F&fire=FF3068&sideNums=F85D7F" height="165"></a>
+        <a href="https://github.com/canaytore"><img src="http://canaytore-github-readme-streak.herokuapp.com/?user=canaytore&theme=react&date_format=M%20j%5B%2C%20Y%5D&ring=F85D7F&fire=FF3068&sideNums=F85D7F" height="165"></a>
     </div>
     </blockquote>
 </details>
@@ -147,7 +147,7 @@
     <blockquote>
     <br>
     <div align="left">
-	<a href="https://github.com/canaytore/spark-learnings"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=canaytore&repo=spark-learnings&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&show_icons=true&show_description=true"></a>
+	<a href="https://github.com/canaytore/spark-learnings"><img width="278" src="https://canaytore-github-readme-stats.vercel.app/api/pin/?username=canaytore&repo=spark-learnings&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&show_icons=true&show_description=true"></a>
     </div>
     </blockquote>
 </details>
@@ -194,7 +194,7 @@
 <!--END_SECTION:activity-->
 <br>
 <div align="center">
-	<a href="https://github.com/canaytore"><img alt="canaytore's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=canaytore&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+	<a href="https://github.com/canaytore"><img alt="canaytore's Activity Graph" src="https://canaytore-github-readme-graph.herokuapp.com/graph/?username=canaytore&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </div>
 </blockquote>
 </details>
