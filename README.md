@@ -6,6 +6,7 @@
     <a href="https://canaytore.github.io"><img src="https://img.icons8.com/doodle/40/000000/domain.png" alt="Website" title="My Website"/></a>
     <a href="https://www.linkedin.com/in/canaytore"><img src="https://img.icons8.com/doodle/40/000000/linkedin.png" alt="LinkedIn" title="Connect me via LinkedIn"/></a>
     <a href="https://github.com/canaytore"><img src="https://img.icons8.com/doodle/40/000000/github.png" alt="GitHub" title="My GitHub Profile"/></a>
+    <a href="https://www.credly.com/users/can-aytore/badges"><img src="https://img.icons8.com/doodle/40/000000/first-place-ribbon.png" alt="Credly" title="My Credly Profile"/></a>
     <a href="https://www.hackerrank.com/canaytore"><img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/40/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-filled-tal-revivo.png" alt="HackerRank" title="My HackerRank Profile"/></a>
     <a href="https://scholar.google.com/citations?user=mbMndyUAAAAJ=en"><img src="https://img.icons8.com/doodle/40/000000/scroll.png" alt="Google Scholar" title="My Google Scholar Profile"/></a>
     <a href="https://www.chess.com/member/canaytore"><img src="https://img.icons8.com/doodle/40/000000/knight.png" alt="Chess" title="Chess"/>
