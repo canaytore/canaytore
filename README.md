@@ -64,16 +64,20 @@
 		    <a href="https://github.com/canaytore"><img alt="Django" src="https://img.shields.io/badge/-Flask-000?logo=flask"></a>
 		    <a href="https://github.com/canaytore"><img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-000?logo=fastapi"></a>
 		    <a href="https://github.com/canaytore"><img alt="Flask" src="https://img.shields.io/badge/-Django-000?logo=django&logoColor=092E20"></a>
+		    <a href="https://github.com/canaytore"><img alt="Grafana" src="https://img.shields.io/badge/-Grafana-000?logo=grafana&logoColor=F46800"></a>
 		    <a href="https://github.com/canaytore"><img alt="Keras" src="https://img.shields.io/badge/-Keras-000?logo=Keras&logoColor=f73636"></a>
 		    <a href="https://github.com/canaytore"><img alt="Kibana" src ="https://img.shields.io/badge/-Kibana-000?logo=kibana&logoColor=005571"></a>
 		    <a href="https://github.com/canaytore"><img alt="mlflow" src="https://img.shields.io/badge/-mlflow-000?logo=mlflow"></a>
 		    <a href="https://github.com/canaytore"><img alt="Neo4j" src="https://img.shields.io/badge/-Neo4j-000?logo=neo4j&logoColor=4581C3"></a>
 		    <a href="https://github.com/canaytore"><img alt="NumPy" src="https://img.shields.io/badge/-Numpy-000?logo=numpy&logoColor=013243"></a>
+		    <a href="https://github.com/canaytore"><img alt="OpenSSL" src="https://img.shields.io/badge/-OpenSSL-000?logo=openssl&logoColor=721412"></a>
 		    <a href="https://github.com/canaytore"><img alt="Pandas" src="https://img.shields.io/badge/-Pandas-000?logo=pandas"></a>
 		    <a href="https://github.com/canaytore"><img alt="Plotly" src="https://img.shields.io/badge/-Plotly-000?logo=plotly&logoColor=3F4F75"></a>
 		    <a href="https://github.com/canaytore"><img alt="Presto" src ="https://img.shields.io/badge/-Presto-000?logo=presto&logoColor=5890FF"></a>
+		    <a href="https://github.com/canaytore"><img alt="Prometheus" src ="https://img.shields.io/badge/-Prometheus-000?logo=prometheus&logoColor=E6522C"></a>
+		    <a href="https://github.com/canaytore"><img alt="Pytest" src ="https://img.shields.io/badge/-Pytest-000?logo=pytest&logoColor=0A9EDC"></a>
 		    <a href="https://github.com/canaytore"><img alt="PyTorch" src ="https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch"></a>
-		    <a href="https://github.com/canaytore"><img alt="Scikit-learn" src="https://img.shields.io/badge/-sklearn-000?logo=scikitlearn"></a>
+		    <a href="https://github.com/canaytore"><img alt="Scikit-learn" src="https://img.shields.io/badge/-scikit%20learn-000?logo=scikitlearn"></a>
 		    <a href="https://github.com/canaytore"><img alt="SciPy" src="https://img.shields.io/badge/-Scipy-000?logo=scipy&logoColor=8CAAE6"></a>
 		    <a href="https://github.com/canaytore"><img alt="TensorFlow" src ="https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow"></a>
 		    <a href="https://github.com/canaytore"><img alt="Tidyverse" src="https://img.shields.io/badge/-Tidyverse-000?logo=tidyverse&logoColor=white"></a>
@@ -98,6 +102,7 @@
 		    <a href="https://github.com/canaytore"><img alt="Okteto" src ="https://custom-icon-badges.demolab.com/badge/-Okteto-000?logo=okteto-kubernetes&logoColor=009688"></a>
 		    <a href="https://github.com/canaytore"><img alt="Red Hat Openshift" src ="https://img.shields.io/badge/-Red%20Hat%20Openshift-000?logo=redhatopenshift&logoColor=EE0000"></a>
 		    <a href="https://github.com/canaytore"><img alt="SonarQube" src ="https://img.shields.io/badge/-SonarQube-000?&logo=sonarqube&logoColor=4E9BCD"></a>
+		    <a href="https://github.com/canaytore"><img alt="Terraform" src ="https://img.shields.io/badge/-Terraform-000?logo=terraform&logoColor=7B42BC"></a>
                 </div>
             </blockquote>
         </details>
@@ -105,14 +110,23 @@
             <summary>&nbsp;Cloud and Databases</summary>
             <blockquote>
                 <div align="left">
-		    <a href="https://github.com/canaytore"><img alt="Amazon DynamoDB" src ="https://img.shields.io/badge/-Amazon%20DynamoDB-000?logo=Amazon%20DynamoDB&logoColor=4053D6"></a>
-		    <a href="https://github.com/canaytore"><img alt="Amazon EC2" src ="https://img.shields.io/badge/-Amazon%20EC2-000?logo=Amazon%20EC2&logoColor=FF9900"></a>
-		    <a href="https://github.com/canaytore"><img alt="Amazon RDS" src ="https://img.shields.io/badge/-Amazon%20RDS-000?logo=Amazon%20RDS&logoColor=527FFF"></a>
-		    <a href="https://github.com/canaytore"><img alt="Amazon S3" src ="https://img.shields.io/badge/-Amazon%20S3-000?logo=Amazon%20S3&logoColor=569A31"></a>
-		    <a href="https://github.com/canaytore"><img alt="AWS" src ="https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90"></a>
+		    <a href="https://github.com/canaytore"><img alt="AWS" src ="https://img.shields.io/badge/-Amazon%20Web%20Services-000?&logo=Amazon-AWS&logoColor=F90"></a>
+		    <a href="https://github.com/canaytore"><img alt="AWS DynamoDB" src ="https://img.shields.io/badge/-AWS%20DynamoDB-000?logo=Amazon%20DynamoDB&logoColor=4053D6"></a>
+		    <a href="https://github.com/canaytore"><img alt="AWS EC2" src ="https://img.shields.io/badge/-AWS%20EC2-000?logo=Amazon%20EC2&logoColor=FF9900"></a>
+		    <a href="https://github.com/canaytore"><img alt="AWS ECS" src ="https://img.shields.io/badge/-AWS%20ECS-000?logo=amazonecs&logoColor=FF9900"></a>
+		    <a href="https://github.com/canaytore"><img alt="AWS EKS" src ="https://img.shields.io/badge/-AWS%20EKS-000?logo=amazoneks&logoColor=FF9900"></a>
+		    <a href="https://github.com/canaytore"><img alt="AWS Fargate" src ="https://img.shields.io/badge/-AWS%20Fargate-000?logo=awsfargate&logoColor=FF9900"></a>
+		    <a href="https://github.com/canaytore"><img alt="AWS Lambda" src ="https://img.shields.io/badge/-AWS%20Lambda-000?logo=awslambda&logoColor=FF9900"></a>
+		    <a href="https://github.com/canaytore"><img alt="AWS RDS" src ="https://img.shields.io/badge/-AWS%20RDS-000?logo=Amazon%20RDS&logoColor=527FFF"></a>
+		    <a href="https://github.com/canaytore"><img alt="AWS S3" src ="https://img.shields.io/badge/-AWS%20S3-000?logo=Amazon%20S3&logoColor=569A31"></a>
 		    <a href="https://github.com/canaytore"><img alt="Azure" src ="https://img.shields.io/badge/-Microsoft%20Azure-000?&logo=microsoft%20azure&logoColor=0078D4"></a>
+		    <a href="https://github.com/canaytore"><img alt="Azure Databricks" src="https://img.shields.io/badge/-Azure%20Databricks-000?logo=databricks&logoColor=FF3621"></a>
 		    <a href="https://github.com/canaytore"><img alt="Elasticsearch" src ="https://img.shields.io/badge/-Elasticsearch-000?&logo=elasticsearch&logoColor=005571"></a>
+		    <a href="https://github.com/canaytore"><img alt="Microsoft Access" src ="https://img.shields.io/badge/-Microsoft%20Access-000?logo=microsoftaccess&logoColor=A4373A"></a>
 		    <a href="https://github.com/canaytore"><img alt="MongoDB" src ="https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=47A248"></a>
+		    <a href="https://github.com/canaytore"><img alt="MySQL" src ="https://img.shields.io/badge/-MySQL-000?logo=mysql&logoColor=4479A1"></a>
+		    <a href="https://github.com/canaytore"><img alt="Oracle DB" src ="https://img.shields.io/badge/-Oracle%20DB-000?logo=oracle&logoColor=F80000"></a>
+		    <a href="https://github.com/canaytore"><img alt="PostgreSQL" src ="https://img.shields.io/badge/-PostgreSQL-000?logo=postgresql&logoColor=4169E1"></a>
 		    <a href="https://github.com/canaytore"><img alt="Redis" src ="https://img.shields.io/badge/-Redis-000?&logo=Redis"></a>
 		    <a href="https://github.com/canaytore"><img alt="VMware" src ="https://img.shields.io/badge/-VMware-000?logo=VMware&logoColor=white"></a>
                 </div>
