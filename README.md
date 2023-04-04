@@ -144,6 +144,17 @@
 </details>
 <br>
 <details open>
+<summary>&nbsp;My Badges 🏆</summary>
+<blockquote>
+<br>
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+<br>
+</blockquote>
+</details>
+<br>	
+<details open>
     <summary>&nbsp;My Top GitHub <a href="https://github.com/canaytore?tab=repositories"><img alt="repo" src="https://custom-icon-badges.demolab.com/badge/-Repositories-276DC3?logo=repo&style=plastic"></a> <i>(to be updated)</i></summary>
     <blockquote>
     <br>
