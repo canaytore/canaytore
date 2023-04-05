@@ -2,8 +2,9 @@ name: Update badges
 
 on:
   schedule:
-    # Runs at 1AM UTC
-    - cron: "0 1 * * *"
+    # Runs at 0AM UTC
+    - cron: "0 0 * * *"
+
 jobs:
   update-readme:
     name: Update Readme with Credly badges
@@ -11,5 +12,8 @@ jobs:
     steps:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
-        with:       
+        with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           CREDLY_USER: can-aytore
+          BADGE_SIZE: 120
+          NUMBER_LAST_BADGES: 24
