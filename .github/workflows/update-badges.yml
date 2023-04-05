@@ -16,5 +16,5 @@ jobs:
         with:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           CREDLY_USER: can-aytore
-          BADGE_SIZE: 120
+          BADGE_SIZE: 140
           NUMBER_LAST_BADGES: 24
