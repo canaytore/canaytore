@@ -166,7 +166,6 @@
 <!--START_SECTION:badges-->
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/c03e19ec-a9bf-47c6-b891-d14f3bcaaea8 "AWS Certified Cloud Practitioner")
 <!--END_SECTION:badges-->
-<br>
 </blockquote>
 </details>
 <br>	
