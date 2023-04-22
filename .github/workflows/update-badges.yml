@@ -15,6 +15,6 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          CREDLY_USER: can-aytore
+          CREDLY_USER: canaytore
           BADGE_SIZE: 140
           NUMBER_LAST_BADGES: 24
