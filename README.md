@@ -166,6 +166,7 @@
 <!--START_SECTION:badges-->
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/140x140/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/c03e19ec-a9bf-47c6-b891-d14f3bcaaea8 "AWS Certified Cloud Practitioner")
 <!--END_SECTION:badges-->
+[![Databricks Certified Associate Developer for Apache Spark](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/84056464)](https://credentials.databricks.com/df214a49-ffd4-466b-a24c-efc7430e3b43#gs.6904o8 "Databricks Certified Associate Developer for Apache Spark")
 </blockquote>
 </details>
 <br>	
