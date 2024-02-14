@@ -1,16 +1,16 @@
 <div align="center">
-    <a href="https://github.com/canaytore"><img src="https://readme-typing-svg.demolab.com/?lines=Can+Ayt%C3%B6re&font=Ubuntu+Mono&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=28&duration=2500&pause=27500" alt="Can Aytöre" /></a>
+    <a href="https://github.com/canaytore"><img src="https://readme-typing-svg.demolab.com/?lines=Can+Ayt%C3%B6re&font=Ubuntu+Mono&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=40&duration=2500&pause=27500" alt="Can Aytöre" /></a>
     <br>
-    <a href="https://github.com/canaytore"><img src="https://readme-typing-svg.demolab.com/?lines=big%20data%20engineer%20;industrial%20engineer%2C%20m%2Esc%2E;7%2B%20years%20of%20coding%20experience;always%20kept%20learning%20new%20things;swimmer%20sailor%20traveler%20photographer&font=Ubuntu+Mono&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000" alt="About Me" /></a>
+    <a href="https://github.com/canaytore"><img src="https://readme-typing-svg.demolab.com/?lines=big%20data%20engineer%20;industrial%20engineer%2C%20m%2Esc%2E;7%2B%20years%20of%20coding%20experience;always%20kept%20learning%20new%20things;swimmer%20sailor%20traveler%20photographer&font=Ubuntu+Mono&center=true&width=600&height=45&color=f75c7e&vCenter=true&size=26&pause=1000" alt="About Me" /></a>
     <br>
-    <a href="https://canaytore.github.io"><img src="https://img.icons8.com/doodle/40/000000/domain.png" alt="Website" title="My Website"/></a>
-    <a href="https://www.linkedin.com/in/canaytore"><img src="https://img.icons8.com/doodle/40/000000/linkedin.png" alt="LinkedIn" title="Connect me via LinkedIn"/></a>
-    <a href="https://github.com/canaytore"><img src="https://img.icons8.com/doodle/40/000000/github.png" alt="GitHub" title="My GitHub Profile"/></a>
-    <a href="https://www.credly.com/users/can-aytore/badges"><img src="https://img.icons8.com/doodle/40/000000/first-place-ribbon.png" alt="Credly" title="My Credly Profile"/></a>
-    <a href="https://www.hackerrank.com/canaytore"><img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/40/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-filled-tal-revivo.png" alt="HackerRank" title="My HackerRank Profile"/></a>
-    <a href="https://scholar.google.com/citations?user=mbMndyUAAAAJ=en"><img src="https://img.icons8.com/doodle/40/000000/scroll.png" alt="Google Scholar" title="My Google Scholar Profile"/></a>
-    <a href="https://www.chess.com/member/canaytore"><img src="https://img.icons8.com/doodle/40/000000/knight.png" alt="Chess" title="Chess"/>
-    <a href="https://canaytore.github.io/photography"><img src="https://img.icons8.com/doodle/40/000000/compact-camera.png" alt="Photography" title="My Portfolio"/></a>
+    <a href="https://canaytore.github.io"><img src="https://img.icons8.com/doodle/50/000000/domain.png" alt="Website" title="My Website"/></a>
+    <a href="https://www.linkedin.com/in/canaytore"><img src="https://img.icons8.com/doodle/50/000000/linkedin.png" alt="LinkedIn" title="Connect me via LinkedIn"/></a>
+    <a href="https://github.com/canaytore"><img src="https://img.icons8.com/doodle/50/000000/github.png" alt="GitHub" title="My GitHub Profile"/></a>
+    <a href="https://www.credly.com/users/can-aytore/badges"><img src="https://img.icons8.com/doodle/50/000000/first-place-ribbon.png" alt="Credly" title="My Credly Profile"/></a>
+    <a href="https://www.hackerrank.com/canaytore"><img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/50/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-filled-tal-revivo.png" alt="HackerRank" title="My HackerRank Profile"/></a>
+    <a href="https://scholar.google.com/citations?user=mbMndyUAAAAJ=en"><img src="https://img.icons8.com/doodle/50/000000/scroll.png" alt="Google Scholar" title="My Google Scholar Profile"/></a>
+    <a href="https://www.chess.com/member/canaytore"><img src="https://img.icons8.com/doodle/50/000000/knight.png" alt="Chess" title="Chess"/>
+    <a href="https://canaytore.github.io/photography"><img src="https://img.icons8.com/doodle/50/000000/compact-camera.png" alt="Photography" title="My Portfolio"/></a>
 </div>
 <br>
 <details open>
@@ -151,7 +151,7 @@
 		    <a href="https://github.com/canaytore"><img alt="SPSS Statistics" src="https://custom-icon-badges.demolab.com/badge/-SPSS%20Statistics-000?logo=SPSS"/></a>
 		    <a href="https://github.com/canaytore"><img alt="Spyder IDE" src="https://img.shields.io/badge/-Spyder%20IDE-000?logo=spyder%20ide&logoColor=FF0000"></a>
 		    <a href="https://github.com/canaytore"><img alt="UiPath" src="https://custom-icon-badges.demolab.com/badge/-UiPath-000?logo=uipath&logoColor=FA4616"></a>
-                    <a href="https://github.com/canaytore"><img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-000?logo=visual-studio-code&logoColor=007ACC"></a>
+                    <a href="https://github.com/canaytore"><img alt="vscode" src="https://img.shields.io/badge/-vscode-000?logo=visual-studio-code&logoColor=007ACC"></a>
                 </div>
             </blockquote>
         </details>
@@ -163,10 +163,13 @@
 <blockquote>
 <br>
 
-<!--START_SECTION:badges-->
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/140x140/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/c03e19ec-a9bf-47c6-b891-d14f3bcaaea8 "AWS Certified Cloud Practitioner")
-<!--END_SECTION:badges-->
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/170x170/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/c03e19ec-a9bf-47c6-b891-d14f3bcaaea8 "AWS Certified Cloud Practitioner")
+[![Databricks Certified Data Engineer Associate](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/94776493)](https://credentials.databricks.com/ce84d9ec-7371-4f84-9b1b-cdeb26350f97 "Databricks Certified Data Engineer Associate")
 [![Databricks Certified Associate Developer for Apache Spark](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/84056464)](https://credentials.databricks.com/df214a49-ffd4-466b-a24c-efc7430e3b43#gs.6904o8 "Databricks Certified Associate Developer for Apache Spark")
+[![Azure Databricks Platform Architect](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/94543886)](https://credentials.databricks.com/eccd7c84-5426-4e78-bb4c-a37c401a46ba "Azure Databricks Platform Architect")
+[![AWS Databricks Platform Architect](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/94628582)](https://credentials.databricks.com/2566f363-2dda-471b-9514-12a92d18eebc "AWS Databricks Platform Architect")
+[![Generative AI Fundamentals](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/84097976)](https://credentials.databricks.com/a7b92007-d2f5-4347-a9b9-ecfc7962de6a "Generative AI Fundamentals")
+[![Databricks Lakehouse Fundamentals](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/84081232)](https://credentials.databricks.com/7709859a-b88b-4e2f-bc01-7d80280e679a "Databricks Lakehouse Fundamentals")
 </blockquote>
 </details>
 <br>	
@@ -176,34 +179,6 @@
     <br>
     <div align="left">
 	<a href="https://github.com/canaytore/spark-learnings"><img width="278" src="https://canaytore-github-readme-stats.vercel.app/api/pin/?username=canaytore&repo=spark-learnings&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&show_icons=true&show_description=true"></a>
-    </div>
-    </blockquote>
-</details>
-<br>
-<details open>
-    <summary>&nbsp;Pokemon Playground 🎮</summary>
-    <blockquote>
-    <br>
-    <div style="background:white;" align="left">
-        <img src="https://toy.aoaoao.me/image" width="320"/>
-        <br>
-        <a href="https://toy.aoaoao.me/control?button=2&callback=https://github.com/canaytore"><img src="https://raw.githubusercontent.com/canaytore/canaytore/main/img/blank.png" width="35"/><img src="https://raw.githubusercontent.com/canaytore/canaytore/main/img/up.png" title="Up" width="35"/></a>
-        <br>
-        <a href="https://toy.aoaoao.me/control?button=1&callback=https://github.com/canaytore"><img src="https://raw.githubusercontent.com/canaytore/canaytore/main/img/left.png" title="Left" width="35"/></a>
-        <img src="https://raw.githubusercontent.com/canaytore/canaytore/main/img/blank.png" width="35"/>
-        <a href="https://toy.aoaoao.me/control?button=0&callback=https://github.com/canaytore"><img src="https://raw.githubusercontent.com/canaytore/canaytore/main/img/right.png" title="Right" width="35"/></a>
-        <img src="https://raw.githubusercontent.com/canaytore/canaytore/main/img/blank.png" width="35"/>
-        <img src="https://raw.githubusercontent.com/canaytore/canaytore/main/img/blank.png" width="35"/>
-        <img src="https://raw.githubusercontent.com/canaytore/canaytore/main/img/blank.png" width="35"/>
-        <a href="https://toy.aoaoao.me/control?button=5&callback=https://github.com/canaytore"><img src="https://raw.githubusercontent.com/canaytore/canaytore/main/img/B.png" title="B" width="35"/></a>
-        <a href="https://toy.aoaoao.me/control?button=4&callback=https://github.com/canaytore"><img src="https://raw.githubusercontent.com/canaytore/canaytore/main/img/A.png" title="A" width="35"/></a>
-        <br>
-        <a href="https://toy.aoaoao.me/control?button=3&callback=https://github.com/canaytore"><img src="https://raw.githubusercontent.com/canaytore/canaytore/main/img/blank.png" width="35"/><img src="https://raw.githubusercontent.com/canaytore/canaytore/main/img/down.png" title="Down" width="35"/></a>
-        <br>
-        <img src="https://raw.githubusercontent.com/canaytore/canaytore/main/img/blank.png" width="35"/>
-        <img src="https://raw.githubusercontent.com/canaytore/canaytore/main/img/blank.png" width="35"/>
-        <a href="https://toy.aoaoao.me/control?button=6&callback=https://github.com/canaytore"><img src="https://raw.githubusercontent.com/canaytore/canaytore/main/img/select.png" title="Select" height="35"/></a>
-        <a href="https://toy.aoaoao.me/control?button=7&callback=https://github.com/canaytore"><img src="https://raw.githubusercontent.com/canaytore/canaytore/main/img/start.png" title="Start" height="35" /></a>
     </div>
     </blockquote>
 </details>
