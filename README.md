@@ -1,16 +1,16 @@
 <div align="center">
-    <a href="https://github.com/canaytore"><img src="https://readme-typing-svg.demolab.com/?lines=Can+Ayt%C3%B6re&font=Ubuntu+Mono&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=40&duration=2500&pause=27500" alt="Can Aytöre" /></a>
+    <a href="https://github.com/canaytore"><img src="https://readme-typing-svg.demolab.com/?lines=Can+Ayt%C3%B6re&font=Ubuntu+Mono&center=true&width=440&height=50&color=f75c7e&vCenter=true&size=38&duration=2500&pause=27500" alt="Can Aytöre" /></a>
     <br>
-    <a href="https://github.com/canaytore"><img src="https://readme-typing-svg.demolab.com/?lines=big%20data%20engineer%20;industrial%20engineer%2C%20m%2Esc%2E;7%2B%20years%20of%20coding%20experience;always%20kept%20learning%20new%20things;swimmer%20sailor%20traveler%20photographer&font=Ubuntu+Mono&center=true&width=600&height=45&color=f75c7e&vCenter=true&size=26&pause=1000" alt="About Me" /></a>
+    <a href="https://github.com/canaytore"><img src="https://readme-typing-svg.demolab.com/?lines=big%20data%20engineer%20;industrial%20engineer%2C%20m%2Esc%2E;7%2B%20years%20of%20coding%20experience;always%20kept%20learning%20new%20things;swimmer%20sailor%20traveler%20photographer&font=Ubuntu+Mono&center=true&width=600&height=50&color=f75c7e&vCenter=true&size=26&pause=1000" alt="About Me" /></a>
     <br>
-    <a href="https://canaytore.github.io"><img src="https://img.icons8.com/doodle/50/000000/domain.png" alt="Website" title="My Website"/></a>
-    <a href="https://www.linkedin.com/in/canaytore"><img src="https://img.icons8.com/doodle/50/000000/linkedin.png" alt="LinkedIn" title="Connect me via LinkedIn"/></a>
-    <a href="https://github.com/canaytore"><img src="https://img.icons8.com/doodle/50/000000/github.png" alt="GitHub" title="My GitHub Profile"/></a>
-    <a href="https://www.credly.com/users/can-aytore/badges"><img src="https://img.icons8.com/doodle/50/000000/first-place-ribbon.png" alt="Credly" title="My Credly Profile"/></a>
-    <a href="https://www.hackerrank.com/canaytore"><img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/50/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-filled-tal-revivo.png" alt="HackerRank" title="My HackerRank Profile"/></a>
-    <a href="https://scholar.google.com/citations?user=mbMndyUAAAAJ=en"><img src="https://img.icons8.com/doodle/50/000000/scroll.png" alt="Google Scholar" title="My Google Scholar Profile"/></a>
-    <a href="https://www.chess.com/member/canaytore"><img src="https://img.icons8.com/doodle/50/000000/knight.png" alt="Chess" title="Chess"/>
-    <a href="https://canaytore.github.io/photography"><img src="https://img.icons8.com/doodle/50/000000/compact-camera.png" alt="Photography" title="My Portfolio"/></a>
+    <a href="https://canaytore.github.io"><img src="https://img.icons8.com/doodle/45/000000/domain.png" alt="Website" title="My Website"/></a>
+    <a href="https://www.linkedin.com/in/canaytore"><img src="https://img.icons8.com/doodle/45/000000/linkedin.png" alt="LinkedIn" title="Connect me via LinkedIn"/></a>
+    <a href="https://github.com/canaytore"><img src="https://img.icons8.com/doodle/45/000000/github.png" alt="GitHub" title="My GitHub Profile"/></a>
+    <a href="https://www.credly.com/users/can-aytore/badges"><img src="https://img.icons8.com/doodle/45/000000/first-place-ribbon.png" alt="Credly" title="My Credly Profile"/></a>
+    <a href="https://www.hackerrank.com/canaytore"><img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/45/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-filled-tal-revivo.png" alt="HackerRank" title="My HackerRank Profile"/></a>
+    <a href="https://scholar.google.com/citations?user=mbMndyUAAAAJ=en"><img src="https://img.icons8.com/doodle/45/000000/scroll.png" alt="Google Scholar" title="My Google Scholar Profile"/></a>
+    <a href="https://www.chess.com/member/canaytore"><img src="https://img.icons8.com/doodle/45/000000/knight.png" alt="Chess" title="Chess"/>
+    <a href="https://canaytore.github.io/photography"><img src="https://img.icons8.com/doodle/45/000000/compact-camera.png" alt="Photography" title="My Portfolio"/></a>
 </div>
 <br>
 <details open>
